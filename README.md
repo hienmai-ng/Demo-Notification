@@ -17,6 +17,6 @@ flutter run
 
 LOGIN FIREBASE: 
 
-curl -sL https://firebase.tools | bash
-firebase login
-firebase init
+1. curl -sL https://firebase.tools | bash
+2. firebase login
+3. firebase init
